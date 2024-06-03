@@ -23,6 +23,3 @@ Author: kmol
 個性化學習和教學、教學輔助工具、遠程教育和線上學習、數據驅動的決策和技能培養和職業準備。
 請利用網路搜尋上列問題的可能回應資料, 篩選認為有用的資料放入個人的課程網站中, 並回報到課程倉儲的[討論區](https://github.com/mdecycu/wcm2024/discussions/1)
 
-[課程影片連結]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJp9Zi9IOM4?si=waLIa5tlm0UrzIev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

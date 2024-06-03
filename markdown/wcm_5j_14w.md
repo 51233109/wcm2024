@@ -1,8 +1,8 @@
 ---
 Title: 各組啟動並執行網際猜數字遊戲
-Date: 2024-04-2011:00
+Date: 2024-04-20 11:00
 Category: Project
-Tags: Brython, w10
+Tags: Brython, w14
 Slug: wcm-w14-project
 Author: kmol
 ---
