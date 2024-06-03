@@ -1,5 +1,10 @@
 ---
-Title:WCM 五專第十四週課程內容
+Title: 各組啟動並執行網際猜數字遊戲
+Date: 2024-04-2011:00
+Category: Project
+Tags: Brython, w10
+Slug: wcm-w14-project
+Author: kmol
 ---
 
 <!-- PELICAN_END_SUMMARY -->
