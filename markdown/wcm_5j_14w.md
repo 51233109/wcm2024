@@ -1,5 +1,5 @@
 ---
-Title: 各組啟動並執行網際猜數字遊戲
+Title: WCM 五專第十四週課程內容
 Date: 2024-04-20 11:00
 Category: 五專
 Tags: Brython, w14
